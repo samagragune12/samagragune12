@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Samagra Gune 👋
 
-<!--
-**samagragune12/samagragune12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Branch:** Computer Science and Engineering (BCE)
+📅 **Year:** First Year (2025 Batch)
+🆔 **Roll No:** 25BCE10462
 
-Here are some ideas to get you started:
+## About Me
+I'm a first-year Computer Science student passionate about technology and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 💡 *I hope to learn how to build real-world software applications, understand AI and machine learning, and contribute to open-source projects during my four years of study.*
+
+## 🔗 Connect With Me
+- 💼 [LinkedIn](#)
+- 📊 [Kaggle](#)
+
+## 📈 My GitHub Stats
+![Samagra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
